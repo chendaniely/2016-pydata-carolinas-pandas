@@ -1,3 +1,9 @@
+# Tutorial Objective
+
+Let's start doing our data analysis **not** in a spreadsheet program and learn Python and Pandas along the way.
+
+Don't get me wrong, I use spreadsheets, but not for data analysis.
+
 # 2016-pydata-carolinas-pandas
 Material for Pandas Tutorial at Pydata Carolinas 2016
 
