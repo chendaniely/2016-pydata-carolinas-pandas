@@ -30,6 +30,14 @@ http://pydata.org/carolinas2016/schedule/
 5. Tidy Data
 6. Plotting
 
+# Setup
+
+The easiest way to get everything you need to the tutorial is to install `anaconda`
+
+You can download and install it here: https://www.continuum.io/downloads
+
+I will be using the Python 3 version during the tutorial.
+
 # Data
 
 1. Gapminder: https://github.com/jennybc/gapminder/raw/master/inst/gapminder.tsv
