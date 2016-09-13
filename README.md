@@ -23,3 +23,7 @@ http://pydata.org/carolinas2016/schedule/
 4. Missing Data
 5. Tidy Data
 6. Plotting
+
+# Data
+
+1. Gapminder: https://github.com/jennybc/gapminder/raw/master/inst/gapminder.tsv
