@@ -4,6 +4,9 @@ Let's start doing our data analysis **not** in a spreadsheet program and learn P
 
 Don't get me wrong, I use spreadsheets, but not for data analysis.
 
+Also, there are some notes from people who I've talked to during the conference in the `notes` folder.
+Click the `.md` file, and github will render the document on the website (like this `README.md` file you are reading now).
+
 # 2016-pydata-carolinas-pandas
 Material for Pandas Tutorial at Pydata Carolinas 2016
 
