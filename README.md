@@ -23,10 +23,15 @@ http://pydata.org/carolinas2016/schedule/
 
 # Syllabus
 
+## Covered in the tutorial
+
 1. Pandas DataFrame basics
-2. Pandas data structures
 3. Data assembly
 4. Missing Data
+5. 
+## Not covered in the tutorial
+
+2. Pandas data structures
 5. Tidy Data
 6. Plotting
 
@@ -38,6 +43,13 @@ You can download and install it here: https://www.continuum.io/downloads
 
 I will be using the Python 3 version during the tutorial.
 
+*I actually ended up using Python 2 because of I had a last minute computer change*
+
+## Install seaborn for plotting
+
+`conda install seaborn`
+
 # Data
 
 1. Gapminder: https://github.com/jennybc/gapminder/raw/master/inst/gapminder.tsv
+2. Survey: Comes from the [Software-Carpentry](http://software-carpentry.org/) SQL [lesson](http://swcarpentry.github.io/sql-novice-survey)
