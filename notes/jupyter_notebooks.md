@@ -27,3 +27,6 @@ It's great for generating reports and reproducibility.
 
 You can also write `LaTeX` formulas in the jupyter notebook markdown cells,
 simply put your equations around dollar signs (e.g., `$y = mx + b$`)
+
+
+*Thanks Bailee Christopher for reminding me to cover/mention this*
