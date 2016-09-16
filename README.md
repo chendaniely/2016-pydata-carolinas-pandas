@@ -29,14 +29,12 @@ http://pydata.org/carolinas2016/schedule/
 ## Covered in the tutorial
 
 1. Pandas DataFrame basics
-3. Data assembly
-4. Missing Data
-5. 
+2. Data assembly
+3. Missing Data
+
 ## Not covered in the tutorial
 
-2. Pandas data structures
-5. Tidy Data
-6. Plotting
+4. Plotting
 
 # Setup
 
