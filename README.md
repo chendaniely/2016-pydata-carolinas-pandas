@@ -54,3 +54,4 @@ I will be using the Python 3 version during the tutorial.
 
 1. Gapminder: https://github.com/jennybc/gapminder/raw/master/inst/gapminder.tsv
 2. Survey: Comes from the [Software-Carpentry](http://software-carpentry.org/) SQL [lesson](http://swcarpentry.github.io/sql-novice-survey)
+3. Ebola: www.github.com/cmrivers/ebola
